@@ -59,4 +59,4 @@ Designed an interactive dashboard in Power BI with visualizations to support dat
 - Average Rating: 3.62
 
 ## Live Dashboard
-- link -: <iframe title="Hospitality _analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmQ3MTJmMmUtNDgyNy00MWRiLWEwNGItZjRlODBjNzdjMzMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+[Live Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiNmQ3MTJmMmUtNDgyNy00MWRiLWEwNGItZjRlODBjNzdjMzMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
